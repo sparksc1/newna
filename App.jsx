@@ -8,6 +8,7 @@ const tempList = [
   { title: 3 },
   { title: 4 },
   { title: 5 },
+  { title: 6 },
 ];
 
 export default function App() {
